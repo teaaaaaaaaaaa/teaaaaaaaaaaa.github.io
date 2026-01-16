@@ -16,14 +16,14 @@ description              : &description "Medical Imaging Technology"   # Update 
 url                      : https://teaaaaaaaaaaa.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "teaaaaaaaaaaa/teaaaaaaaaaaa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/touxiang.png"
+  avatar           : "../images/touxiang.png"
   name             : "Long Yafei"
   pronouns         : # example: "she/her"  
   bio              : "I am a senior student at Peking University Health Science Center, majoring in Medical Imaging Technology. Nice to meet you all."
