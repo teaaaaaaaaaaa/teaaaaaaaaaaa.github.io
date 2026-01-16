@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/touxiang.png"
   name             : "Long Yafei"
   pronouns         : # example: "she/her"  
   bio              : "I am a senior student at Peking University Health Science Center, majoring in Medical Imaging Technology. Nice to meet you all."
